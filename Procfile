@@ -1,1 +1,1 @@
-worker: python happypill.py
+worker: python happypills.py
