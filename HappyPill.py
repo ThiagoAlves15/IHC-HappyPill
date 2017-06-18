@@ -1,5 +1,3 @@
-login_info = [os.environ['USERNAME'], os.environ['PASSWORD']]
-
 from telegram.ext import (Updater, JobQueue, Job, Filters,
                           CallbackQueryHandler, CommandHandler, MessageHandler,
                           ConversationHandler, RegexHandler, Handler)
