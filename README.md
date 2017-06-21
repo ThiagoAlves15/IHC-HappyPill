@@ -1,4 +1,4 @@
-# tosquice
+# IHC-HappyPill
 Referências pessoais
 Projeto de IHC
 Subindo no Heroku.
